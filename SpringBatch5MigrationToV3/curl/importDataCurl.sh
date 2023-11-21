@@ -1,0 +1,1 @@
+curl --location --request POST 'http://localhost:8082/jobs'

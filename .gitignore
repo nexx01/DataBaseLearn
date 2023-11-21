@@ -1,0 +1,7 @@
+/*/build/
+/*/.gradle/
+
+
+*.iml
+*.bin
+/.idea/uiDesigner.xml

@@ -1,0 +1,9 @@
+rootProject.name = 'DataBaseLearn'
+include 'HikariCP'
+include 'ApacheCommonsDBCPPool'
+include 'CustomConnectionPool'
+include 'HicaryCPWithSpringBoot'
+include 'C3POandHibernate'
+include 'SpringJDBCBatchInserts'
+include 'BatchSpringBatchBeginer'
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BatchInsertSpringBootSpringBatch.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BatchInsertSpringBootSpringBatch.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BatchSpringBatchBeginer/DataBaseLearn.BatchSpringBatchBeginer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BatchSpringBatchBeginer/DataBaseLearn.BatchSpringBatchBeginer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBatch3FaultToleranceUsingSkipPoliceAndListener.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBatch3FaultToleranceUsingSkipPoliceAndListener.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBatch4DynamicFileUploader.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBatch4DynamicFileUploader.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBatch5MigrationToV3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBatch5MigrationToV3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBatchPartitions.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBatchPartitions.main.iml" />
+    </modules>
+  </component>
+</project>

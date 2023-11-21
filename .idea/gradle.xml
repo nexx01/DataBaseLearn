@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:/gradle-7.6.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ApacheCommonsDBCPPool" />
+            <option value="$PROJECT_DIR$/BatchSpringBatchBeginer" />
+            <option value="$PROJECT_DIR$/C3POandHibernate" />
+            <option value="$PROJECT_DIR$/CustomConnectionPool" />
+            <option value="$PROJECT_DIR$/HicaryCPWithSpringBoot" />
+            <option value="$PROJECT_DIR$/HikariCP" />
+            <option value="$PROJECT_DIR$/SpringJDBCBatchInserts" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/BatchInsertSpringBootSpringBatch" />
+        <option name="gradleHome" value="C:/gradle-7.6.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/BatchInsertSpringBootSpringBatch" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBatch3FaultToleranceUsingSkipPoliceAndListener" />
+        <option name="gradleHome" value="C:/gradle-7.6.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBatch3FaultToleranceUsingSkipPoliceAndListener" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBatch4DynamicFileUploader" />
+        <option name="gradleHome" value="C:/gradle-7.6.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBatch4DynamicFileUploader" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBatch5MigrationToV3" />
+        <option name="gradleHome" value="C:/gradle-7.6.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBatch5MigrationToV3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBatchPartitions" />
+        <option name="gradleHome" value="C:/gradle-7.6.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBatchPartitions" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
